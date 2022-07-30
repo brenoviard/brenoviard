@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil! 8)
+## Bem-vindo(a) ao meu perfil!
 
  <div>
    <a href="https://github.com/brenoviard">
